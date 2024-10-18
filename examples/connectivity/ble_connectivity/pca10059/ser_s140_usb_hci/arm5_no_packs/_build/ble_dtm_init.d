@@ -1,0 +1,11 @@
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\connectivity\codecs\common\ble_dtm_init.c
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\connectivity\codecs\common\ble_dtm_conn.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\connectivity\hal\dtm_uart.h
+.\_build\ble_dtm_init.o: D:\EmbeddedSoftware\MDK\MDK_FILE\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\common\transport\dtm_uart_params.h
+.\_build\ble_dtm_init.o: D:\EmbeddedSoftware\MDK\MDK_FILE\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\softdevice\s140\headers\nrf_error.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\common\ble_serialization.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\libraries\util\nordic_common.h
+.\_build\ble_dtm_init.o: D:\EmbeddedSoftware\MDK\MDK_FILE\ARM\ARMCC\Bin\..\include\stddef.h
+.\_build\ble_dtm_init.o: ..\..\..\..\..\..\components\serialization\common\cond_field_serialization.h
