@@ -478,7 +478,6 @@ static void buttons_init(void)
     static app_button_cfg_t buttons[] =
     {
         {LEDBUTTON_BUTTON, false, BUTTON_PULL, button_event_handler}
-        {}
     };
 
     err_code = app_button_init(buttons, ARRAY_SIZE(buttons),
